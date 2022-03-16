@@ -1,0 +1,22 @@
+@media (min-width: 250px  ) and (max-width: 420px){
+    .cart {
+        padding: 5px;
+    }
+    .section__wrap{
+        margin-top: 2rem;
+    }
+    .checkOut{
+        position: relative;
+        right: -54vw;
+        margin-top: 10vh;
+    }
+}
+@media (min-width: 250px  ) and (max-width: 1200px){
+    .cart {
+        padding: 5px;
+    }
+    .section__wrap{
+        margin-top: 3rem;
+    }
+  
+}

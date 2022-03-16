@@ -1,0 +1,57 @@
+.checkout__cart{
+   padding-top:5rem;
+   
+    
+}
+.checkout__form{
+    width: 100vw;
+    padding: 8rem 0rem;
+}
+.checkout__form .sign__group{
+    margin: 1rem 2rem;
+    width: 20rem;
+    height: 4rem;
+}
+.total__price__checkout{
+    color: white;
+}
+.country__selection{
+    background-color: #2b2b31;
+    margin-top: 0.2rem;
+    color: gray;
+    padding-left: 13px;
+    height: 75%;
+    width: 88%;
+    border: none;
+}
+@media(max-width:1200px){
+    .checkout__cart{
+        padding: 0rem 0rem;
+
+       
+    }
+    .country__selection{
+        width:90%;
+        margin-left: 0;
+    }
+    .weather__container{
+        
+        
+        margin-left:10rem !important;
+        margin-right: 0 !important;
+        font-size: 1rem !important;
+        
+    }
+ 
+    /* .checkout__form{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding-top: 37%;
+        
+       } */
+       .checkout__form__form{
+           padding: 1rem 2rem ;
+       }
+}
+
